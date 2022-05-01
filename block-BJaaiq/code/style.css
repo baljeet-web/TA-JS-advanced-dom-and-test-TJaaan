@@ -1,0 +1,22 @@
+h2{
+    font-size: 3rem;
+    margin-bottom: -1rem;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+
+li{
+    list-style: disc;
+    margin-bottom: 5rem;
+}
+
+.container{
+    margin: 2rem;
+}
