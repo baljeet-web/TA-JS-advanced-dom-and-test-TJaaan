@@ -1,0 +1,2 @@
+const exercise = require(`./index`);
+
