@@ -1,9 +1,0 @@
-{
-    "name":"Quotes",
-    "description": "Quotes",
-    "version":"1.0.0",
-    "manifest_version":2,
-    "chrome _url_overrides":{
-        "newtab":"index.html"
-    }
-}
