@@ -18,3 +18,5 @@ function getArea(r) {
 }
 
 module.exports = { fullName, isPalindrome, getCircumfrence, getArea };
+
+// testing code
